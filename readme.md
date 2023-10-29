@@ -1,0 +1,1 @@
+Day04 task includes problems using anonymous function,IIFE function and arrow function.
